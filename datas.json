@@ -1,0 +1,22 @@
+{
+    "code":1,
+    "message":"success",
+    "data":[
+        {
+            "id":1,
+            "name":"Paul",
+            "image":"https://pic4.zhimg.com/v2-c21606cc260d1e83272a3b3243a2ff17_b.jpg",
+            "job":"班主任",
+            "entrydate":"2008-05-09",
+            "updatetime":"2022-10-01 12:00:00"
+        },
+        {
+            "id":2,
+            "name":"Paul",
+            "image":"https://pic4.zhimg.com/v2-c21606cc260d1e83272a3b3243a2ff17_b.jpg",
+            "job":"班主任",
+            "entrydate":"2008-05-09",
+            "updatetime":"2022-10-01 12:00:00"
+        }
+    ]
+}
